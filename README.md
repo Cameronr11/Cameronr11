@@ -27,14 +27,14 @@
 <!-- Keep 3–6 and lead with value; include tech + a tiny metric if available. -->
 
 ### 1) MRNet — Knee MRI Classification (DL from scratch, attention + transfer learning)
-Repo: https://github.com/Cameronr11/DL_Project_Team15  
+Repo: https://github.com/Cameronr11/MRNet-DeepLearning
 **What it is:** Deep-learning pipeline to detect ACL/meniscus/abnormalities across **axial/coronal/sagittal** views.  
 **How it works:** Pretrained CNN backbones (ResNet/DenseNet), attention-weighted slice pooling, augmentation scheduling, ensemble across views.  
 **Results:** ~**0.91 AUC** on validation; class imbalance handled with weighted losses and stratified sampling.  
 **Stack:** PyTorch, torchvision, Optuna, TensorBoard.
 
 ### 2) BERT + RAG — Long-context QA on “A Study in Scarlet”
-Repo: https://github.com/Cameronr11/COSC524_Team9_Project2  
+Repo: https://github.com/Cameronr11/BERT-Novel-FineTune  
 **What it is:** Fine-tuning **bert-base-uncased** for extractive QA with **custom RAG** to overcome token limits.  
 **How it works:** Sentence/scene chunking, retrieval pipeline, and QA fine-tuning notebooks; install script for repro.  
 **Stack:** Hugging Face Transformers, Python.
@@ -52,7 +52,7 @@ Repo: https://github.com/Cameronr11/2048_RL
 **Status:** Hardening training loop & evaluation harness; code will be opened soon.
 
 ### 5) Monet-Style GANs — “I’m Something of a Painter Myself” (in progress)
-Repo: https://github.com/Cameronr11/Team12_GAN  
+Repo: https://github.com/Cameronr11/GAN-Variant-Research 
 **Focus:** Multiple GAN variants for style transfer & generation; local + cluster training workflows.  
 **Status:** Private while polishing baselines and evaluation; will open with reproducible configs.
 
