@@ -45,13 +45,13 @@ Repo: https://github.com/Cameronr11/SBCAUTO
 **Stack:** **Next.js** (TypeScript, Tailwind, Chakra UI) + **Flask** API, Selenium, SQLite/Pandas, Socket.IO (real-time progress).  
 **Impact:** Reduces solve time from ~10 minutes to **<45 seconds** (typical runs).
 
-### 4) 2048 — Reinforcement Learning Agent (in progress; repo will be public)
+### 4) 2048 — Reinforcement Learning Agent
 Repo: https://github.com/Cameronr11/2048_RL  
 **Focus:** DQN/dueling/CNN variants; training curriculum aimed at consistent 1024→2048 tiles; symmetry augmentation & target update schedules.  
 **Stack:** PyTorch, Gymnasium-style envs, NumPy.  
 **Status:** Hardening training loop & evaluation harness; code will be opened soon.
 
-### 5) Monet-Style GANs — “I’m Something of a Painter Myself” (in progress)
+### 5) Monet-Style GANs — “I’m Something of a Painter Myself” 
 Repo: https://github.com/Cameronr11/GAN-Variant-Research 
 **Focus:** Multiple GAN variants for style transfer & generation; local + cluster training workflows.  
 **Status:** Private while polishing baselines and evaluation; will open with reproducible configs.
