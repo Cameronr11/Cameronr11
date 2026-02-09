@@ -4,7 +4,7 @@
 <h3 align="center">ML-minded SWE building useful AI systems — from medical imaging to search, RL, and HPC tooling</h3>
 
 - 🔭 I’m currently working on **a Reinforcement Learning agent for 2048** and **GAN variants** for the “I’m Something of a Painter Myself” challenge.
-- 🎓 M.S. CS (Machine Learning) @ **UT Knoxville** (in progress); B.S. CS @ **Christian Brothers University** (NCAA soccer alum).
+- 🎓 M.S. CS (Machine Learning) @ **UT Knoxville**; B.S. CS @ **Christian Brothers University** (NCAA soccer alum).
 - 🧠 Interests: **ML systems, medical AI, NLP/RAG, RL, MLOps, HPC**.
 - 📍 Knoxville, TN (open to relocate) • 🇺🇸 Work authorization: **U.S. citizen/authorized**.
 - 📫 Reach me: **Cameronrader11@outlook.com**
@@ -49,8 +49,7 @@ Repo: https://github.com/Cameronr11/SBCAUTO
 Repo: https://github.com/Cameronr11/2048_RL  
 **Focus:** DQN/dueling/CNN variants; training curriculum aimed at consistent 1024→2048 tiles; symmetry augmentation & target update schedules.  
 **Stack:** PyTorch, Gymnasium-style envs, NumPy.  
-**Status:** Hardening training loop & evaluation harness; code will be opened soon.
-
+**Status:** Hardening training loop & evaluation harness.
 ### 5) Monet-Style GANs — “I’m Something of a Painter Myself” 
 Repo: https://github.com/Cameronr11/GAN-Variant-Research 
 **Focus:** Multiple GAN variants for style transfer & generation; local + cluster training workflows.  
